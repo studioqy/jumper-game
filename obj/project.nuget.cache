@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQrxZl9m3dFdkPLsgellZCFhPfFrepxDjTTfK90bD+3QXQx3fda1cTkJauYgXXHbFgiHkHWa8yoALHsCCS0syQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\studi\\OneDrive\\Documents\\GitRepos\\studioqy\\jumper-game\\05-jumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\studi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
